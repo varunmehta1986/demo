@@ -1,18 +1,21 @@
 {
-  "posts": [
+  "forms": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
+		"formId": 1,
+		"formName": "2-16/2020",
+		"useWebApp": false
+	},
+	{
+		"formId": 2,
+		"formName": "3-14/2019",
+		"useWebApp": true
+	},
+	{
+		"formId": 3,
+		"formName": "2-20/2120",
+		"useWebApp": false
+	}
+  ]
   "comments": [
     {
       "id": 1,
