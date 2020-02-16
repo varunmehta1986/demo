@@ -1,14 +1,17 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    formId:1,
+    formName: "2-16/2020",
+    useWebApp: false
+  },
+  {
+    formId:2,
+    formName: "3-14/2019",
+    useWebApp: true
+  },
+  {
+    formId:3,
+    formName: "2-20/2120",
+    useWebApp: false
   }
-}
+]
