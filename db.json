@@ -1,34 +1,32 @@
 {
-  "forms": [
-    {
-		"formId": 1,
-		"formName": "2-16/2020",
-		"useWebApp": false
-	},
-	{
-		"formId": 2,
-		"formName": "3-14/2019",
-		"useWebApp": true
-	},
-	{
-		"formId": 3,
-		"formName": "2-20/2120",
-		"useWebApp": false
+	"forms": [{
+			"formId": 1,
+			"formName": "2-16/2020",
+			"useWebApp": false
+		},
+		{
+			"formId": 2,
+			"formName": "3-14/2019",
+			"useWebApp": true
+		},
+		{
+			"formId": 3,
+			"formName": "2-20/2120",
+			"useWebApp": false
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "varun"
 	}
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
